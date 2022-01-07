@@ -1,0 +1,32 @@
+body {
+  background-color: whitesmoke;
+  
+}
+
+form {
+  color: red;
+  font-size:150%;
+}
+
+p {
+  margin: 10px;
+}
+
+a {
+  border: 2px solid #D2386C;
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  background-color: LightSteelBlue;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: midnightblue;
+}
+
